@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/4c3db4b0-e129-4f63-a818-1523038dd86d">
+  <img width="auto" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/4c3db4b0-e129-4f63-a818-1523038dd86d">
 </p>
 
 # DEPLOY SMARTCONTRACT ETHEREUM (ERC-20)
