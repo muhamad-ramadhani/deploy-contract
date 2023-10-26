@@ -28,7 +28,7 @@ https://thirdweb.com/explore
 - Klik bagian "Token"
 
 <p align="left">
-  <img width="60%" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/2c45f6df-7939-4ac2-8e89-7a4079159e3f">
+  <img width="auto" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/2c45f6df-7939-4ac2-8e89-7a4079159e3f">
 </p>
 
 ### 3. Isi detail token contract kalian
@@ -37,14 +37,14 @@ https://thirdweb.com/explore
 - Klik "Deploy Now", Lalu sign melalui wallet kalian
 
 <p align="left">
-  <img width="60%" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/b73faf51-bdda-4eb5-b67d-6d2d93614818">
+  <img width="auto" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/b73faf51-bdda-4eb5-b67d-6d2d93614818">
 </p>
 
 ### 4. Konfirmasi Deploy
 Konfirmasi melalui wallet kalian
 
 <p align="left">
-  <img width="60%" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/6b8b4b76-00a5-41f6-a88d-5dc38547f065">
+  <img width="auto" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/6b8b4b76-00a5-41f6-a88d-5dc38547f065">
 </p>
 
 ### 5. Done Deployed, Edit supply contract
@@ -54,7 +54,7 @@ Jika sudah deploy, kalian bisa mint supply contract
 - Lalu edit supply
 
 <p align="left">
-  <img width="60%" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/e03776be-ba94-4a26-aa00-72a57ce90b1b">
+  <img width="auto" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/e03776be-ba94-4a26-aa00-72a57ce90b1b">
 </p>
 
 ### DONE
@@ -62,7 +62,7 @@ Cek Contract kalian di Explorer
 https://scrollscan.com/
 
 <p align="left">
-  <img width="60%" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/7ca6ccdc-0463-4fb8-aeb3-6e7bb369227d">
+  <img width="auto" height="auto" src="https://github.com/muhamad-ramadhani/deploy-contract/assets/72949170/7ca6ccdc-0463-4fb8-aeb3-6e7bb369227d">
 </p>
 
 
